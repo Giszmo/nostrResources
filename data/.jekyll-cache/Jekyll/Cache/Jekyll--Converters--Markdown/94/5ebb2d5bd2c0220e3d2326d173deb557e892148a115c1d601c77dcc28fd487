@@ -1,0 +1,4 @@
+I"Ê<blockquote>
+  <p>This is a nostr relay, written in Rust. It currently supports the entire relay protocol, and persists data with SQLite. There is experimental support for Postgresql.</p>
+</blockquote>
+:ET
