@@ -1,8 +1,11 @@
 ---
-title: Satellite
-web: http://satellite.orbit/
+title: Satellite Earth
+web: https://satellite.earth/
 git: 
 instances:
+- name: Satellite Earth
+  url: https://satellite.earth/
+  comment: 
 tags:
 - social
 - client
