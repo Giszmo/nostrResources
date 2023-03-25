@@ -1,9 +1,0 @@
-I"š<blockquote>
-  <ul>
-    <li>a nostr relay implementation based on relayer.</li>
-    <li>uses postgres, which I think must be over version 12 since it uses generated columns.</li>
-    <li>requires users to manually register themselves to be able to publish events and pay a fee. this should prevent spam.</li>
-    <li>aside from that itâ€™s basically the same thing as relayer basic.</li>
-  </ul>
-</blockquote>
-:ET

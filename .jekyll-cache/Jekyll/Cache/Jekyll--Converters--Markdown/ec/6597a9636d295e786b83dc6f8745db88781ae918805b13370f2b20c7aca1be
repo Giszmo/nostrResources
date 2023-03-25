@@ -1,9 +1,0 @@
-I"×<blockquote>
-  <h2 id="features">Features</h2>
-  <ul>
-    <li>Connect to nostr relay</li>
-    <li>Refresh page on update</li>
-    <li>Relay and refresh time configurable from query string</li>
-  </ul>
-</blockquote>
-:ET
