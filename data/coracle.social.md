@@ -21,7 +21,18 @@ progLang:
 - Svelte
 - TS
 - JS
+features:
+- kind1/post
+- reply
+- mentions
+- reactions
+- dms
+- createChannel
+- readChannelPosts
+- postInChannel
 authorNPub: npub154ssd5n79f5tus672a23x9e47stttxa7meg009jxvna3gykmxn7shzd2rh
+nips:
+- NIP-05
 ---
 
 > A beginner-friendly nostr web client.
