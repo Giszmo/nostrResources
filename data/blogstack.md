@@ -9,7 +9,7 @@ instances:
 tags:
 - client
 - blog
-- lightningTips
+- lightning
 platforms:
 - web
 license: GPL-3.0

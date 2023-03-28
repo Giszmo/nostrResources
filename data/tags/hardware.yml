@@ -1,0 +1,9 @@
+short: Hardware
+title: Hardware Devices 
+message: Hardware Devices that Interact with the Nostr Protocol
+question: 
+details: >
+  Currently, there are hardware devices in the process of development that function 
+  as HSMs and enable users to sign using their private keys. This approach ensures 
+  that the private keys remain secure and are not exposed to platforms that may 
+  be susceptible to vulnerabilities.

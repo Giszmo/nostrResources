@@ -1,0 +1,8 @@
+short: Library
+title: Library
+message: These are programming libraries that utilizes the Nostr protocol
+question: 
+details: >
+  Along with Nostr Improvement Proposals come the need for programs that implement
+  these proposed functionalities. These are stored as libraries that other developers
+  can build upon and improve.

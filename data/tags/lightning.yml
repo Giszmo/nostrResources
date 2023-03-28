@@ -1,0 +1,9 @@
+short: Lightning
+title: Lightning Integration
+message: These software makes it easier for users to transact using the Lightning Network
+question: 
+details: >
+  Lightning functions primarily come in the form of tipping. Initially suggested
+  for the twitter platform as a form of validating a user's post or for general 
+  appreciation, it's been integrated into most Nostr clients to put greater value
+  in what other people post. 
