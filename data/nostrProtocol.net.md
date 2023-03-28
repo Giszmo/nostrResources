@@ -12,7 +12,7 @@ license: MIT
 progLang:
 - TS
 - JS
-authorNPub:  npub1r25l7p70wll4wgvpf9u9xw68gs78ev6gajux95y37w9yc09hjw6sxldkdv
+authorNPub: npub1r25l7p70wll4wgvpf9u9xw68gs78ev6gajux95y37w9yc09hjw6sxldkdv
 nips:
 - NIP-05
 ---

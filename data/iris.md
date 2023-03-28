@@ -15,7 +15,7 @@ instances:
 tags:
 - social
 - client
-- id
+- idServices
 platforms:
 - web
 - Android
@@ -37,4 +37,4 @@ nips:
 > • Add a profile picture, bio, and additional information to your profile
 > • Show your followers what you're all about and make a lasting impression
 
-Also provides free NIP-05 verification service
+Also provides free NIP-05 addresses

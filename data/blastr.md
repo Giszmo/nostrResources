@@ -6,7 +6,9 @@ instances:
 tags:
 - tool
 platforms:
-- desktop
+- Linux
+- Windows 
+- macOS
 license: MIT
 progLang:
 - Rust

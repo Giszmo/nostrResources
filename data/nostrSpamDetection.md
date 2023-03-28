@@ -11,7 +11,7 @@ platforms:
 license:
 progLang:
 - Python
-- Jupyter Notebook
+- JupyterNotebook
 authorNPub:
 ---
 

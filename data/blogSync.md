@@ -8,11 +8,11 @@ tags:
 platforms:
 - Linux 
 - Windows
+- macOS
 license: MIT
 progLang:
 - GO
 - JS
-- macOS
 authorNPub: npub1hz404lnj7lxsdt5vxdlex9rlvhlz6dxqqed4y6tpywvzgwx0qmlqfpl6sm 
 ---
 

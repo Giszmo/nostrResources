@@ -4,7 +4,7 @@ web: https://scrapbox-reader.vercel.app/nostr/NostrFlu
 git: https://github.com/heguro/nostr-following-list-util
 instances:
 tags:
-- tool
+- web
 platforms:
 - Linux
 - Windows

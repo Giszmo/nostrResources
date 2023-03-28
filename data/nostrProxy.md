@@ -13,7 +13,7 @@ license:
 progLang:
 - JS
 - TS
-authorNPub:  
+authorNPub: npub1txukm7xckhnxkwu450sm59vh2znwm45mewaps4awkef2tvsgh4vsf7phrl 
 ---
 
 > ## Push and get events to your Proxy, get results from multiple Nostr relays

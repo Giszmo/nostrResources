@@ -4,7 +4,7 @@ web: https://app.nip05.social/home
 git: 
 instances:
 tags:
-- id
+- idServices
 - tool
 platforms:
 - web

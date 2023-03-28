@@ -5,6 +5,7 @@ git: https://github.com/keystr/keystr-rs
 instances:
 tags:
 - tool
+- signer
 platforms:
 - Linux
 license: MIT

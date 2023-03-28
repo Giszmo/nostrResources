@@ -1,16 +1,17 @@
 ---
-title: getAlby
+title: Alby
 web: https://getalby.com/
-git: 
+git: https://github.com/getAlby/lightning-browser-extension
 instances:
 tags:
-- id
+- idServices
 - lightning
 - tool
 - browserExtension
+- signer
 platforms:
 - web
-license:
+license: MIT
 progLang:
 authorNPub: npub1xv8mzscll8vvy5rsdw7dcqtd2j268a6yupr6gzqh86f2ulhy9kkqmclk3x
 nips:
