@@ -6,6 +6,7 @@ instances:
 tags:
 - chat
 - client
+- dm
 platforms:
 - Linux
 - Windows
@@ -15,10 +16,6 @@ progLang:
 - Clojure
 - Java
 features:
-- kind1/post 
-- reply 
-- mentions
-- dms  
 authorNPub: npub19mun7qwdyjf7qs3456u8kyxncjn5u2n7klpu4utgy68k4aenzj6synjnft 
 nips: 
 - NIP-05

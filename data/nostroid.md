@@ -9,6 +9,7 @@ instances:
 tags:
 - social
 - client
+- dm
 platforms:
 - web
 license: GPL-3
@@ -17,10 +18,6 @@ progLang:
 - TS 
 - JS
 features:
-- kind1/post
-- reply
-- mentions
-- dms
 authorNPub: npub1gm7tuvr9atc6u7q3gevjfeyfyvmrlul4y67k7u7hcxztz67ceexs078rf6
 nips:
 - NIP-05

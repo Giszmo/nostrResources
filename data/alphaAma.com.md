@@ -15,9 +15,6 @@ license:
 progLang:
 - JS
 features:
-- reply
-- mentions
-- reactions
 authorNPub: npub1nmr6w7qk0ta36vxysv77jv3d5rqghfc6d8sez8240rf3gja4vsmsd2yha8  
 nips:
 - NIP-05

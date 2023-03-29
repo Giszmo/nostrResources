@@ -6,6 +6,7 @@ instances:
 tags:
 - social
 - client
+- lightning
 platforms:
 - iPhone
 - macOS
@@ -14,15 +15,6 @@ progLang:
 - Swift
 - C
 features:
-- kind1/post
-- reply
-- mentions
-- reactions
-- dms
-- readChannelPosts
-- postInChannel
-- replyToInChannel
-- LNIntegration
 authorNPub: npub1xtscya34g58tk0z605fvr788k263gsu6cy9x0mhnm87echrgufzsevkk5s
 nips:
 - NIP-05 

@@ -22,10 +22,6 @@ progLang:
 - Vue
 - JS
 features:
-- kind1/post
-- reply
-- mentions
-- dms
 authorNPub: npub13sx6fp3pxq5rl70x0kyfmunyzaa9pzt5utltjm0p8xqyafndv95q3saapa
 nips:
 - NIP-05

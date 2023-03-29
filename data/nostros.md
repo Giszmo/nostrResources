@@ -6,6 +6,8 @@ instances:
 tags:
 - social
 - client
+- dm
+- lightning
 platforms:
 - Android
 license: Apache-2.0
@@ -16,12 +18,6 @@ progLang:
 - Ocjective-C
 - C++
 features:
-- kind1/post
-- reply
-- mentions
-- reactions
-- dms 
-- LNIntegration
 authorNPub: npub1v3tgrwwsv7c6xckyhm5dmluc05jxd4yeqhpxew87chn0kua0tjzqc6yvjh
 nips:
 ---
