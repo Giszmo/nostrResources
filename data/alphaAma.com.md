@@ -14,7 +14,6 @@ license:
 progLang:
 - JS
 features:
-- kind1/post
 - reply
 - mentions
 - reactions
