@@ -8,6 +8,7 @@ instances:
   comment: Instance managed by AlphaAMA's author.
 tags:
 - client
+- social
 platforms:
 - web
 license: 
