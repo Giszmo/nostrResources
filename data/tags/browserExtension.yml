@@ -1,0 +1,7 @@
+short: Browser Extension
+title: Browser Extension
+message: Nostr software that interact with clients or relays via a browser extension.
+question: 
+details: >
+  Currently, browser extensions allow users to sign in to web clients to give them
+  access to functions such as posting notes, logging in and interacting.

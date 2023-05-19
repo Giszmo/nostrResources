@@ -1,0 +1,10 @@
+short: Signers
+title: Signers
+message: Signers are browser extensions that allow users to sign Nostr events without exposing the private keys to other parties.
+question: Does the software allow users to sign Nostr events?
+details: >
+  Signers can come in the form of software, browser extensions or even hardware.
+  These usually interact with clients for a variety of purposes. Some signers allow 
+  users to log in on a Nostr website. Other functionalities allow users to post Nostr 
+  notes. It makes use of public key cryptography as specified in [NIP-07](https://github.com/nostr-protocol/nips/blob/master/07.md)
+  

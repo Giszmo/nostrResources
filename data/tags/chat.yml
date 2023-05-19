@@ -1,0 +1,8 @@
+short: Chat
+title: Chat
+message: It allows to join potentially public chat rooms. "Telegram-like"
+question: Does the product communicate with relays and allow the creation of chat rooms that have threaded conversations?
+details: >
+  The group chat function allows for the transmission of messages from multiple
+  parties in a manner that is semi-private. Only invited parties are privvy to
+  conversations in these instances. 

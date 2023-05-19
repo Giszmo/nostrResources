@@ -1,0 +1,15 @@
+short: Social
+title: Social
+message: It allows you to create a profile and follow others and share kind 1 text notes. "Twitter-like"
+question: Does the software allow to:
+ - Create a profile, with public keys and private keys?
+ - Follow other profiles?
+ - Share Kind 1 Notes?
+details: >
+  Social networking software, although they may present a different user
+  experience based on design, have a set of universal functions that allow
+  participants to interact with each other. 
+
+  In the early days of Nostr, these functions include the ability to create
+  profiles that have a public-private keypair, follow the notes created by 
+  other profiles and the ability to post Kind 1 Notes.  

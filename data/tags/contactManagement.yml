@@ -1,0 +1,9 @@
+short: Contact Management 
+title: Contact Management 
+message: Allows users to export their follows
+question: 
+details: >
+  Nostr's primary use case is social in nature. Since it is also decentralized, 
+  it also follows that users may want their follow list to be portable. Even if
+  a client or a relay goes down, having this list will ensure that past interactions
+  will easily be transferrable.

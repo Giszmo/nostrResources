@@ -1,0 +1,10 @@
+short: Relay
+title: Relay Implementation
+message: Software to enable a device to function as a Nostr relay
+question: 
+details: >
+  There are currently many efforts to come up with Nostr relay implementations
+  across different programming languages: Go, C++, C#, Rust, Node.js/Typescript,
+  Clojure, Python and Kotlin. 
+    
+    

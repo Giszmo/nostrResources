@@ -1,0 +1,7 @@
+short: Game 
+title: Game
+message: The idea of using the Nostr protocol for interactive and multiplayer games was first experienced in Jester
+question: Does the game use networking and communications based on Nostr
+details: >
+  Right now, there's only one game that makes use of the Nostr protocol - Jester. 
+  It is conceivable that in the future, more games would be developed using the protocol.

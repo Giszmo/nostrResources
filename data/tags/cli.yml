@@ -1,0 +1,8 @@
+short: CLI
+title: CLI
+message: Nostr programs that primarily run through a terminal or the command line interface.
+question: 
+details: >
+  Terminal applications that communicate using Nostr can have a variety of functions.
+  Some serve as POCs of how the protocol works while having functionalities that are 
+  similar to modern browser-based social networks. 

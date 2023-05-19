@@ -14,7 +14,7 @@ tags:
 - social
 - client
 - dm
-- lightningTips
+- lightning
 license: MIT
 progLang:
 - Vue

@@ -1,0 +1,10 @@
+short: Client
+title: Client
+message: It's not a relay or documentation but a software that talks to relays. Read the analysis for details.
+question: Does the product communicate with relays?
+details: >
+  Relays are like the backend servers for Nostr. They allow Nostr clients 
+  to send them messages, and they may (or may not) store those messages 
+  and broadcast those messages to all other connected clients.
+
+  (Taken from [nostr.how](https://nostr.how/relays))

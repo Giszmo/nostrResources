@@ -1,0 +1,8 @@
+short: Blog
+title: Blog 
+message: Some clients allow posting long-form content using the Nostr protocol
+question: 
+details: >
+  Long-form content, including media, is currently being tested in some clients 
+  using the Nostr protocol. Some call these as private notes, articles or simply,
+  blog posts. 

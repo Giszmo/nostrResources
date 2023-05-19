@@ -1,0 +1,9 @@
+short: Widget
+title: Widget 
+message: These are optional extensions that could extend the functionality of clients.
+question: 
+details: >
+  In the early 2000s, widgets came in the form of small code that apply richer
+  experiences for bloggers. Examples of these in the past include, follower list,
+  word clouds, real-time chat, messages, rss feeds or what not. Nostr's versatility
+  could allow for more of these widgets as developers build upon it.

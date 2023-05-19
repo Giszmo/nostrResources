@@ -1,0 +1,17 @@
+short: ID Services
+title: ID Services
+message: This is Nostr's version of the 'blue twitter mark'
+question: 
+details: >
+  You are who you say you really are. That's the core assumption that a blue twitter 
+  checkmark conveys to its holders. On centralized platforms like Twitter or Facebook, 
+  this is done with varying levels of KYC. Some require identification documents and 
+  some offer extra services such as [Facebook's Verified Badge](https://www.facebook.com/help/1288173394636262). 
+  In Nostr, a decentralized-network, the mechanics are different since there is no 
+  centralized authority to tell people that you are who you really are. This is expounded
+  further in NIP-05, where "Nostr keys are mapped to DNS-based internet identifiers". 
+  Some of these services are for pay, with nothing more than a few satoshis to include 
+  a user's name included inside the json file in a folder located
+  inside the root directory of a domain. 
+    
+    
