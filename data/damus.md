@@ -6,13 +6,18 @@ instances:
 tags:
 - social
 - client
+- lightning
 platforms:
 - iPhone
+- macOS
 license: GPL-3
 progLang:
 - Swift
 - C
+features:
 authorNPub: npub1xtscya34g58tk0z605fvr788k263gsu6cy9x0mhnm87echrgufzsevkk5s
+nips:
+- NIP-05 
 ---
 
 Damus' fills the demand for nostr in the iOS market. 

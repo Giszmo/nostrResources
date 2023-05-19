@@ -6,13 +6,19 @@ instances:
 tags:
 - chat
 - client
+- dm
 platforms:
-- Linux 
+- Linux
+- Windows
+- macOS  
 license: 
 progLang:
 - Clojure
 - Java
+features:
 authorNPub: npub19mun7qwdyjf7qs3456u8kyxncjn5u2n7klpu4utgy68k4aenzj6synjnft 
+nips: 
+- NIP-05
 ---
 
 ### A Nostr Browser in Clojure

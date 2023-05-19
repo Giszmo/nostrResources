@@ -15,11 +15,16 @@ tags:
 - client
 - dm
 - lightningTips
+platforms:
+- web
 license: MIT
 progLang:
 - Vue
 - JS
+features:
 authorNPub: npub13sx6fp3pxq5rl70x0kyfmunyzaa9pzt5utltjm0p8xqyafndv95q3saapa
+nips:
+- NIP-05
 ---
 
 > Branle fork
