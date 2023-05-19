@@ -15,6 +15,7 @@ instances:
 tags:
 - social
 - client
+- idServices
 platforms:
 - web
 - Android
@@ -24,6 +25,8 @@ progLang:
 - JS
 - TS
 authorNPub: npub1g53mukxnjkcmr94fhryzkqutdz2ukq4ks0gvy5af25rgmwsl4ngq43drvk
+nips:
+- NIP-05
 ---
 
 ## App description from Google Play
@@ -33,3 +36,5 @@ authorNPub: npub1g53mukxnjkcmr94fhryzkqutdz2ukq4ks0gvy5af25rgmwsl4ngq43drvk
 > • Create a personalized profile that showcases who you are and what you stand for
 > • Add a profile picture, bio, and additional information to your profile
 > • Show your followers what you're all about and make a lasting impression
+
+Also provides free NIP-05 addresses
