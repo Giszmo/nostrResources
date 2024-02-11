@@ -4,7 +4,7 @@ web: https://app.coracle.social/
 git: https://github.com/staab/coracle
 instances:
 - name: Coracle Social
-  url: https://app.coracle.social/
+  url: https://coracle.social/
   comment: 
 tags:
 - social
